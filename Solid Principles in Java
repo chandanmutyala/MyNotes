@@ -1,0 +1,13 @@
+
+The SOLID principles are a set of five design principles in Java:-
+
+1) Single Responsibility Principle (SRP)
+A class should have only one reason to change, meaning it should have only one responsibility.
+2) Open/Closed Principle (OCP):
+Software entities (e.g., classes, modules) should be open for extension but closed for modification.
+3) Liskov-Substitution Principle:
+According to LSP, substituting the subclasses for the base class should work , and the expected behavior is maintained.
+4) Interface Segregation Principle(ISP):
+According to ISP it allows classes to implement only the interfaces that are relevant to their functionality.
+5)Dependency Inversion principle (DIP):
+DIP promotes a more flexible and adaptable design by inverting the direction of dependency in a system, allowing high-level and low-level modules to depend on abstractions rather than concrete details.
