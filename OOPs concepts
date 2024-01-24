@@ -1,0 +1,14 @@
+1) Abstraction :
+It shows essential features and ignoring unnecessary details.
+It focuses on what an object does rather than how it achieves it.
+
+2)Polymorphism: (Many-Forms)
+ In programming, a single method or interface can work with different classes.
+ Example: A universal remote control that can operate various devices.
+
+ 3)Inheritance:
+ To inherit properties and behaviors from one class to another class.
+ A subclass inheriting from a superclass.
+
+ 4)Encapsulation:
+ Encapsulation in Java is the practice of bundling data (attributes) and the methods (functions) that operate on the data into a single unit, known as a class.

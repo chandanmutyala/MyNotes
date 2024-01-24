@@ -1,0 +1,20 @@
+1.Observability:
+Definition: Observability refers to the ability to measure, understand, and infer the internal state of a system
+Tools used: Tools like Elasticsearch, Kibana.
+
+2.RTO - Recovery Time Objective:
+Definition: RTO is the maximum allowable time for the recovery of a system after a failure or disaster.
+
+3.Return on Investment (ROI):
+Financial success of a project
+
+4.High Availability:
+Involves using Java frameworks and technologies to build systems that can withstand failures and maintain operational continuity.
+
+5.Auto Scaling:
+Involves dynamically adjusting the number of JVM instances, which can be achieved using cloud-based auto-scaling services or container orchestration tools.
+
+6.Logs:
+In Java, logs are records that capture information about events and activities within a Java application or system.Utilizing logging frameworks such as Log4j or SLF4J to generate logs at different levels (DEBUG, INFO, WARN, ERROR).
+
+
